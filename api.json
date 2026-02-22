@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "email": "23f3003786@ds.study.iitm.ac.in",
+    "version": "d564dc92"
+  },
+  "products": [
+    {
+      "id": "prod-d564dc92-001",
+      "name": "Elite Item 1",
+      "category": "electronics",
+      "price": 72.97,
+      "stock": 116,
+      "rating": 2
+    },
+    {
+      "id": "prod-d564dc92-002",
+      "name": "Basic Item 2",
+      "category": "electronics",
+      "price": 199.15,
+      "stock": 185,
+      "rating": 4.9
+    },
+    {
+      "id": "prod-d564dc92-003",
+      "name": "Pro Item 3",
+      "category": "home",
+      "price": 113.55,
+      "stock": 26,
+      "rating": 4.7
+    },
+    {
+      "id": "prod-d564dc92-004",
+      "name": "Pro Item 4",
+      "category": "home",
+      "price": 184.93,
+      "stock": 65,
+      "rating": 3.6
+    },
+    {
+      "id": "prod-d564dc92-005",
+      "name": "Basic Item 5",
+      "category": "books",
+      "price": 207.33,
+      "stock": 36,
+      "rating": 2
+    },
+    {
+      "id": "prod-d564dc92-006",
+      "name": "Premium Item 6",
+      "category": "sports",
+      "price": 56.54,
+      "stock": 83,
+      "rating": 1.6
+    },
+    {
+      "id": "prod-d564dc92-007",
+      "name": "Pro Item 7",
+      "category": "electronics",
+      "price": 454.67,
+      "stock": 88,
+      "rating": 3.5
+    },
+    {
+      "id": "prod-d564dc92-008",
+      "name": "Pro Item 8",
+      "category": "home",
+      "price": 319.45,
+      "stock": 109,
+      "rating": 3.6
+    },
+    {
+      "id": "prod-d564dc92-009",
+      "name": "Elite Item 9",
+      "category": "home",
+      "price": 474.62,
+      "stock": 190,
+      "rating": 3.9
+    },
+    {
+      "id": "prod-d564dc92-010",
+      "name": "Standard Item 10",
+      "category": "clothing",
+      "price": 324.19,
+      "stock": 128,
+      "rating": 2.5
+    },
+    {
+      "id": "prod-d564dc92-011",
+      "name": "Basic Item 11",
+      "category": "electronics",
+      "price": 280.33,
+      "stock": 8,
+      "rating": 4.9
+    },
+    {
+      "id": "prod-d564dc92-012",
+      "name": "Elite Item 12",
+      "category": "books",
+      "price": 17.31,
+      "stock": 194,
+      "rating": 1.7
+    },
+    {
+      "id": "prod-d564dc92-013",
+      "name": "Premium Item 13",
+      "category": "sports",
+      "price": 325.97,
+      "stock": 188,
+      "rating": 3.1
+    },
+    {
+      "id": "prod-d564dc92-014",
+      "name": "Elite Item 14",
+      "category": "electronics",
+      "price": 436.01,
+      "stock": 83,
+      "rating": 4.5
+    },
+    {
+      "id": "prod-d564dc92-015",
+      "name": "Pro Item 15",
+      "category": "sports",
+      "price": 153.86,
+      "stock": 17,
+      "rating": 2.7
+    },
+    {
+      "id": "prod-d564dc92-016",
+      "name": "Basic Item 16",
+      "category": "books",
+      "price": 351.14,
+      "stock": 50,
+      "rating": 1.5
+    },
+    {
+      "id": "prod-d564dc92-017",
+      "name": "Pro Item 17",
+      "category": "books",
+      "price": 225.59,
+      "stock": 29,
+      "rating": 3.3
+    },
+    {
+      "id": "prod-d564dc92-018",
+      "name": "Basic Item 18",
+      "category": "clothing",
+      "price": 406.36,
+      "stock": 31,
+      "rating": 2.8
+    },
+    {
+      "id": "prod-d564dc92-019",
+      "name": "Premium Item 19",
+      "category": "electronics",
+      "price": 318.71,
+      "stock": 45,
+      "rating": 1.9
+    },
+    {
+      "id": "prod-d564dc92-020",
+      "name": "Basic Item 20",
+      "category": "electronics",
+      "price": 66.33,
+      "stock": 27,
+      "rating": 3.1
+    },
+    {
+      "id": "prod-d564dc92-021",
+      "name": "Standard Item 21",
+      "category": "books",
+      "price": 111.31,
+      "stock": 15,
+      "rating": 4.8
+    },
+    {
+      "id": "prod-d564dc92-022",
+      "name": "Standard Item 22",
+      "category": "sports",
+      "price": 11.78,
+      "stock": 65,
+      "rating": 1.1
+    }
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 2,
+      "inventoryValue": 54093.48
+    }
+  }
+}
